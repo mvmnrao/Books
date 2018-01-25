@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<hibernate-mapping	assembly="DomainObjects"
+  namespace="DomainObjects"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="urn:nhibernate-mapping-2.2"
+  default-lazy="false">
+
+  <class name="Choice, DomainObjects" table="Choices" lazy="false">
+    <id name="Id" column="ChoiceID" type="Int32" access="nosetter.camelcase-underscore">
+      <generator class="identity" />
+    </id>
+
+    <property name="Text" column="Text" type="String" not-null="true"/>
+    <property name="IsCorrect" column="Correct" type="Boolean" not-null="true" />
+
+    <many-to-one name="Question" class="Question" column="QuestionID" cascade="save-update" />
+   
+
+  </class>
+
+</hibernate-mapping>

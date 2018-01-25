@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{C4E3ED18-5B0B-4654-B281-BA16CD39E9B6}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainObjects", "DomainObjects\DomainObjects.csproj", "{62AD69D7-AA2A-43A3-BBCF-8943E00DB932}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSuite", "TestSuite\TestSuite.csproj", "{6ABD86FD-3A41-4F72-AA42-941D1E53D556}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E224FDC0-C801-4A3A-BBC8-7029DC1C2000}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(SolutionItems) = preProject
+		ConsoleApp.vsmdi = ConsoleApp.vsmdi
+		localtestrun.testrunconfig = localtestrun.testrunconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ConsoleApp.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4E3ED18-5B0B-4654-B281-BA16CD39E9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E3ED18-5B0B-4654-B281-BA16CD39E9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E3ED18-5B0B-4654-B281-BA16CD39E9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E3ED18-5B0B-4654-B281-BA16CD39E9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62AD69D7-AA2A-43A3-BBCF-8943E00DB932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AD69D7-AA2A-43A3-BBCF-8943E00DB932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AD69D7-AA2A-43A3-BBCF-8943E00DB932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AD69D7-AA2A-43A3-BBCF-8943E00DB932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABD86FD-3A41-4F72-AA42-941D1E53D556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABD86FD-3A41-4F72-AA42-941D1E53D556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABD86FD-3A41-4F72-AA42-941D1E53D556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABD86FD-3A41-4F72-AA42-941D1E53D556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

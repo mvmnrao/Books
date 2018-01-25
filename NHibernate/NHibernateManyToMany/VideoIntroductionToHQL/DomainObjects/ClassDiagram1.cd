@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.4" />
+  <Class Name="DomainObjects.Exam">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Exam.cs</FileName>
+      <HashCode>AAAAAAAAAIAABEAAAAgCAAAACAAAAAAEAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DomainObjects.Question">
+    <Position X="5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <FileName>Question.cs</FileName>
+      <HashCode>AAAAAAAAAAAQgAAABAAAAAAAABAAAABIAAAACAEAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DomainObjects.Choice">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Choice.cs</FileName>
+      <HashCode>CAAAAAAAAAAAAABAAAAAAAAAAAAAAAAMAAIACAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DomainObjects.DomainBase" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DomainBase.cs</FileName>
+      <HashCode>AAACAAAAAAAAAAAAAAhAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<hibernate-mapping
+	
+	assembly="DomainObjects"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="urn:nhibernate-mapping-2.2" >
+
+  <class name="DomainObjects.Entities.Customer,DomainObjects" table="Customers">
+    <id name="ID" column="CustomerID" type="Int32" unsaved-value="0">
+      <generator class="identity" />
+    </id>
+    <property name="FirstName" column="FirstName" type="String"/>
+    <property name="LastName" column="LastName" type="String" />
+  
+  </class>
+
+</hibernate-mapping>
+

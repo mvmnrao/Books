@@ -1,0 +1,16 @@
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\bin\Debug\DomainObjects.dll
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\bin\Debug\DomainObjects.pdb
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\obj\Debug\DomainObjects.dll
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\obj\Debug\DomainObjects.pdb
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\obj\Debug\DomainObjects.Mappings.Exam.hbm.xml
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\obj\Debug\DomainObjects.Mappings.Question.hbm.xml
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\obj\Debug\DomainObjects.Mappings.Choice.hbm.xml
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\bin\Debug\NHibernate.dll
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\bin\Debug\Iesi.Collections.dll
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\bin\Debug\log4net.dll
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\bin\Debug\Castle.DynamicProxy.dll
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\bin\Debug\NHibernate.xml
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\bin\Debug\Iesi.Collections.xml
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\bin\Debug\log4net.xml
+C:\Projects\SchoolTestingApplicationNHibernate\SchoolAppUsingNHibernate\DomainObjects\bin\Debug\Castle.DynamicProxy.xml

@@ -1,0 +1,16 @@
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\bin\Debug\NHibernate.dll
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\bin\Debug\Iesi.Collections.dll
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\bin\Debug\log4net.dll
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\bin\Debug\Castle.DynamicProxy.dll
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\bin\Debug\NHibernate.xml
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\bin\Debug\Iesi.Collections.xml
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\bin\Debug\log4net.xml
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\bin\Debug\Castle.DynamicProxy.xml
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\bin\Debug\DomainObjects.dll
+C:\Projects\LearningConsole\ConsoleApp\ConsoleApp\bin\Debug\DomainObjects.pdb

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<hibernate-mapping	assembly="DomainObjects"
+  namespace="DomainObjects" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="urn:nhibernate-mapping-2.2"
+  default-lazy="false">
+
+  <class name="Exam, DomainObjects" table="Exams" lazy="false">
+    <id name="Id" column="ExamID" type="Int32" access="nosetter.camelcase-underscore">
+      <generator class="identity" />
+    </id>
+
+    <property name="Title" column="Title" type="String" not-null="true"/>
+
+    <bag name="Questions" access="nosetter.camelcase-underscore" lazy="true" cascade="save-update" inverse="true">
+
+      <key column="ExamID" />
+      <one-to-many class="Question" />
+      
+    </bag>   
+    
+  </class>
+
+</hibernate-mapping>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<hibernate-mapping	assembly="DomainObjects"
+  namespace="DomainObjects"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="urn:nhibernate-mapping-2.2"
+  default-lazy="false">
+
+  <class name="User, DomainObjects" table="Users" lazy="false">
+    <id name="Id" column="UserID" type="Int32" access="nosetter.camelcase-underscore">
+      <generator class="identity" />
+    </id>
+
+    <property name="FirstName" column="FirstName" type="String" not-null="true"/>
+    <property name="LastName" column="LastName" type="String" not-null="true" />
+
+
+    <bag name="Exams" cascade="save-update" lazy="false" table="UserExams">
+
+      <key column="UserID" />
+      <many-to-many class="Exam" column="ExamID" />
+      
+    </bag>
+    
+    
+  </class>
+
+</hibernate-mapping>

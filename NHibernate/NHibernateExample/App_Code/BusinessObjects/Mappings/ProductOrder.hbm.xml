@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2">
+
+  <class name="ProductOrder, __Code" table="ProductOrder">
+
+    <id name="ProductOrderID" column="ProductOrderID" type="Int32" unsaved-value="null">
+      <generator class="native" />
+    </id>
+    
+    <property name="CustomerID" column="CustomerID" type="Int32" />
+    <property name="ProductName" column="ProductName" type="String" />
+    <property name="Quantity" column="Quantity" type="Int32" />
+    <property name="TotalCost" column="TotalCost" type="Decimal" />
+  </class>
+
+</hibernate-mapping>

@@ -1,0 +1,14 @@
+bin\Debug\DomainObjects.dll
+bin\Debug\DomainObjects.pdb
+bin\Debug\Iesi.Collections.dll
+bin\Debug\log4net.dll
+bin\Debug\Castle.DynamicProxy.dll
+bin\Debug\NHibernate.xml
+bin\Debug\Iesi.Collections.xml
+bin\Debug\log4net.xml
+bin\Debug\Castle.DynamicProxy.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DomainObjects.Entities.Customer.hbm.xml
+obj\Debug\DomainObjects.Entities.Order.hbm.xml
+obj\Debug\DomainObjects.dll
+obj\Debug\DomainObjects.pdb

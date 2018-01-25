@@ -1,0 +1,16 @@
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\bin\Debug\TestSuite.dll
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\bin\Debug\TestSuite.pdb
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\obj\Debug\TestSuite.dll
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\obj\Debug\TestSuite.pdb
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\bin\Debug\TestSuite.dll.config
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\bin\Debug\NHibernate.dll
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\bin\Debug\Iesi.Collections.dll
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\bin\Debug\log4net.dll
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\bin\Debug\Castle.DynamicProxy.dll
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\bin\Debug\NHibernate.xml
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\bin\Debug\Iesi.Collections.xml
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\bin\Debug\log4net.xml
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\bin\Debug\Castle.DynamicProxy.xml
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\bin\Debug\DomainObjects.dll
+C:\Projects\LearningConsole\ConsoleApp\TestSuite\bin\Debug\DomainObjects.pdb
